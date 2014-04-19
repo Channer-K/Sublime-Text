@@ -1,0 +1,17 @@
+{
+	"color_scheme": "Packages/Solarized Color Scheme/Solarized (dark).tmTheme",
+	"flatland_sidebar_tree_medium": true,
+	"flatland_square_tabs": true,
+	"font_face": "Consolas",
+	"font_size": 14.5,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Markdown"
+	],
+	"save_on_focus_lost": true,
+	"tab_size": 2,
+	"theme": "Flatland Dark.sublime-theme",
+	"translate_tabs_to_spaces": true
+}
