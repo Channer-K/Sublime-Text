@@ -1,8 +1,8 @@
 {
 	"color_scheme": "Packages/User/Solarized (dark) (SL).tmTheme",
-	"theme": "Soda Light 3.sublime-theme",
-	"font_face": "Consolas",
-	"font_size": 14.5,
+	"theme": "Soda SolarizedDark.sublime-theme",
+	"font_face": "Source Code Pro",
+	"font_size": 12.5,
 	"tab_size": 2,
 	"margin": 4, // 行号边栏和文字的间距
 	"line_padding_top": 1, // 设置每一行到顶部，以像素为单位的间距，效果相当于行距
