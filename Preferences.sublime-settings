@@ -27,9 +27,9 @@
 
 	"tree_animation_enabled": true, // 左边边栏文件夹动画
 	"show_tab_close_buttons": true, // 标签页的关闭按钮
-	"ignored_packages":
-	[
-		"",
-		"Markdown"
-	]
+	"wrap_width": 79,
+	"show_full_path": true,
+	
+  	"draw_indent_guides": true,
+  	"indent_guide_options": ["draw_normal"]
 }
