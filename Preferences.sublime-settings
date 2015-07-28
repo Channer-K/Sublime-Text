@@ -1,35 +1,53 @@
 {
-	"color_scheme": "Packages/User/Solarized (dark) (SL).tmTheme",
-	"theme": "Soda SolarizedDark.sublime-theme",
-	"font_face": "Source Code Pro",
-	"font_size": 12.5,
-	"tab_size": 2,
-	"margin": 4, // 行号边栏和文字的间距
-	"line_padding_top": 1, // 设置每一行到顶部，以像素为单位的间距，效果相当于行距
-	"line_padding_bottom": 1, // 设置每一行到底部，以像素为单位的间距，效果相当于行距
-
-	"highlight_line": true, // 突出显示当前光标所在的行
+	"auto_indent": true,
+	"auto_match_enabled": true,
+	"caret_extra_width": 1,
+	"caret_style": "phase",
+	"color_scheme": "Packages/One Dark Color Scheme/One Dark.tmTheme",
+	"default_encoding": "UTF-8",
+	"default_line_ending": "unix",
+	"dictionary": "Packages/Language - English/en_US.dic",
+	"draw_indent_guides": true,
+	"findreplace_small": true,
+	"flatland_square_tabs": true,
+	"font_face": "Courier New",
+	"font_options":
+	[
+		"subpixel_antialias",
+		"no_round"
+	],
+	"font_size": 14.5,
+	"gutter": true,
+	"highlight_line": true,
 	"highlight_modified_tabs": true,
-	"translate_tabs_to_spaces": true,
-	"word_wrap": true, // 是否自动换行
-	"line_numbers": true, // 是否显示行号
-	"gutter": true, // 是否显示行号边栏
-	"auto_indent": true, // 按回车时，自动与制表位对齐
-	"auto_match_enabled": true, // 自动匹配引号，括号等
-	"match_tags": true, // html和xml下突出显示光标所在标签的两端
-	"translate_tabs_to_spaces": true, // 缩进和遇到Tab键时使用空格替代
-
-	"default_line_ending": "unix", // 每一行结束的时候用什么字符做终止符
-	"default_encoding": "UTF-8", // 默认编码格式
-
-	"save_on_focus_lost": true, // 切换到其它文件标签或点击其它非本软件区域，文件自动保存
-	"soda_folder_icons": true,
-
-	"tree_animation_enabled": true, // 左边边栏文件夹动画
-	"show_tab_close_buttons": true, // 标签页的关闭按钮
-	"wrap_width": 79,
+	"ignored_packages":
+	[
+		"Markdown",
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal"
+	],
+	"line_numbers": true,
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"margin": 4,
+	"match_tags": true,
+	"rulers": [
+		79
+	],
+	"save_on_focus_lost": false,
 	"show_full_path": true,
-	
-  	"draw_indent_guides": true,
-  	"indent_guide_options": ["draw_normal"]
+	"show_tab_close_buttons": true,
+	"sidebar_small": true,
+	"spell_check": true,
+	"tab_size": 4,
+	"tabs_small": true,
+	"theme": "Flatland Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"tree_animation_enabled": true,
+	"word_wrap": true,
+	"wrap_width": 79
 }
